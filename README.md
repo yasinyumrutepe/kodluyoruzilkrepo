@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
  Bu repo [Patika](https://app.patika.dev/moduller/git/odev1) Başlangıç Seviye Go Web Development Eğitimi için oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet index.html barındırıyor
-
+![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
 Öncelikle projeyi clonelayın
 ```
